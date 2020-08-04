@@ -78,20 +78,20 @@
       "cor": "#2AEE32",
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "QUANDO APARECE A OPORTUNIDADE DE JOGAR DE XERATH, DEVEMOS APROVEITAR | Kami",
+          "url": "https://www.youtube.com/watch?v=-KxP9_cptCI"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "CBLoL 2020: 2ª Etapa - Fase de Pontos | INTZ x paiN Gaming (3º Turno)",
+          "url": "https://www.youtube.com/watch?v=53VI4kvnYO0"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "COUNTERANDO ILLAOI E VOLIBEAR",
+          "url": "https://www.youtube.com/watch?v=zPYMDjGZYyY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "BRTT DE JHIN É SÓ QUÉOTA E TEY! QUIETINHO! - Rexpeita a Stream #135",
+          "url": "https://www.youtube.com/watch?v=4XDu2htK6iw"
         }
       ]
     },
@@ -100,42 +100,38 @@
       "cor": "#B3F005",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Banho de Folhas - Luedji Luna (Oficial)",
+          "url": "https://www.youtube.com/watch?v=bmWm6I3aAqw"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Liniker e os Caramelows: NPR Music Tiny Desk Concert",
+          "url": "https://www.youtube.com/watch?v=tCrLnfwX088"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Potyguara Bardo - Oasis (Ao Vivo no Estúdio MangoLab)",
+          "url": "https://www.youtube.com/watch?v=PKHjb7-eqtk"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Tiago Iorc, Duda Beat - Tangerina (Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=5ZBQKrBDids"
         }
       ]
     },
     {
       "titulo": "Conversas e Entrevistas",
       "cor": "#FF7A00",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "GIRLS EDUCATION: ELAS QUE LUTAM",
+          "url": "https://www.youtube.com/watch?v=uhqfLcXKAnw"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Day1 | Paola Carosella: 'Os sonhos que eu tenho não têm limite'",
+          "url": "https://www.youtube.com/watch?v=Cq_OBKFS-as"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Vamos nos amar virtualmente | Jout Jout Prazer | TEDxParquedasNaçõesWomen",
+          "url": "https://www.youtube.com/watch?v=zbkImGWtyK0"
         },
         {
           "titulo": "Resident Evil 8",
@@ -150,10 +146,6 @@
     {
       "titulo": "Tutoriais",
       "cor": "#BC4908",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
           "titulo": "Como estudar melhor?",
@@ -180,14 +172,10 @@
     {
       "titulo": "Cozinha",
       "cor": "#CF2B49",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Nhoque da Paola - Nossa Cozinha Ep. 3",
+          "url": "https://www.youtube.com/watch?v=aLSxRA6HQo4"
         },
         {
           "titulo": "Faculdade",
@@ -211,29 +199,29 @@
       "titulo": "Ted Talks",
       "cor": "#DC6EBE",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Ted Page",
+        "url": "https://www.ted.com"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Um novo olhar sobre a pessoa negra; novas narrativas importam | Gabi Oliveira | TEDxUNIRIO",
+          "url": "https://www.youtube.com/watch?v=FYg-vQwm3Lo"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Como criar crianças doces num país ácido | Taís Araújo | TEDxSaoPaulo",
+          "url": "https://www.youtube.com/watch?v=H2Io3y98FV4"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Felicidade é aqui e agora | Clóvis de Barros Filho | TEDxSaoPaulo",
+          "url": "https://www.youtube.com/watch?v=HsQx02JdZ2Q"
         },
         {
           "titulo": "A mágica do Aprendizado",
           "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "A evolução do EU TE AMO | Marcos Piangers | TEDxCentroUniversitárioNewtonPaiva",
+          "url": "https://www.youtube.com/watch?v=1_cfCTpx5a0"
         }
       ]
     }
